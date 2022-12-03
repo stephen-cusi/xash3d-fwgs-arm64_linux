@@ -1,2 +1,0 @@
-print "help"
-print "kick"
