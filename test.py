@@ -1,1 +1,2 @@
 print "help"
+print "kick"
