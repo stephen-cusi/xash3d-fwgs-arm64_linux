@@ -6,4 +6,5 @@ In order to facilitate arm-based Linux to play games such as Half-Life, I compil
 # how to use?
 Refer to the description of the official repo.
 
- [official repository](github.com/fwgs/xash3d-fwgs)
+ official repository
+<https://github.com/fwgs/xash3d-fwgs>
